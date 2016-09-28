@@ -12,6 +12,7 @@ public class Main {
 	private static void displaygreeting(){
 		System.out.println("Hello World");
 		System.out.println("Xin Chao");
+		System.out.println("Nhan bai roi!!");
 	}
 
 }
